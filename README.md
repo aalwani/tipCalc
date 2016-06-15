@@ -22,7 +22,6 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -35,6 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+Github was extremely tedious to navigate and I landed up deleting all my files on accident and had to start over
 
 ## Credits
 
